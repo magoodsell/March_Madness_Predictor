@@ -1,5 +1,5 @@
 # March_Madness_Predictor
-Function to predict the winner of march madness tournament and games. The script can be found here ./mmadness_predictor/mm_predictor.R file.
+Function to predict the winner of march madness tournament and games. The script can be found here ```./mmadness_predictor/mm_predictor.R``` file.
 
 Started out as a R challenge in the Math Department at BYU-Idaho, https://shiny.byui.edu/MarchMadness/.
 
